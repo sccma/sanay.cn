@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=S, initial-scale=1.0">
-    <title>测试文件ddfdfdfdfdfdfddd.php</title>
+    <title>自动更新.php</title>
 </head>
 <body>
 <div>imyadsafk</div>
